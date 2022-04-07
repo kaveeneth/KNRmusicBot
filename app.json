@@ -1,7 +1,7 @@
 {
     "name": "DemonGirl",
     "description": "ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛ ғᴏʀ sᴛʀᴇᴀᴍɪɴɢ ᴠɪᴅᴇᴏ & ᴍᴜsɪᴄ ᴛʀᴏᴜɢʜᴛ ᴛʜᴇ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴠɪᴅᴇᴏ ᴄʜᴀᴛ.",
-    "logo": "https://telegra.ph/file/a388669f1cd8ef91ba4b9.jpg",
+    "logo": "https://telegra.ph/file/acf5163b7255b79fca645.jpg",
     "keywords": [
         "pytgcalls",
         "telegram bot",
@@ -9,7 +9,7 @@
         "pyrogram"
     ],
     "website": "https://t.me/DemonGirlUpdate",
-    "repository": "https://github.com/DarkSkull93/DemonGirl",
+    "repository": "https://github.com/kaveeneth/KNRmusicBot",
     "success_url": "https://github.com/DarkSkull93",
     "env": {
         "API_ID": {
