@@ -1,5 +1,5 @@
 {
-    "name": "DemonGirl",
+    "name": "KNRmusicBot",
     "description": "ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛ ғᴏʀ sᴛʀᴇᴀᴍɪɴɢ ᴠɪᴅᴇᴏ & ᴍᴜsɪᴄ ᴛʀᴏᴜɢʜᴛ ᴛʜᴇ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴠɪᴅᴇᴏ ᴄʜᴀᴛ.",
     "logo": "https://telegra.ph/file/acf5163b7255b79fca645.jpg",
     "keywords": [
@@ -8,9 +8,9 @@
         "video stream",
         "pyrogram"
     ],
-    "website": "https://t.me/DemonGirlUpdate",
+    "website": "https://t.me/Info_Kaveesha",
     "repository": "https://github.com/kaveeneth/KNRmusicBot",
-    "success_url": "https://github.com/DarkSkull93",
+    "success_url": "https://github.com/Kaveesha_Music_play_Bot",
     "env": {
         "API_ID": {
             "description": "your API_ID from my.telegram.org",
@@ -47,7 +47,6 @@
         "GROUP_SUPPORT": {
             "description": "if you have group, then fill the group username here without @",
             "required": true,
-            "value": "DemonGirlSupport"
         },
         "DURATION_LIMIT": {
             "description": "then fill the duration limit here",
@@ -57,12 +56,10 @@
         "UPDATES_CHANNEL": {
             "description": "if you have channel then fill the channel username here without ",
             "required": true,
-            "value": "DemonGirlUpdate"
         },
         "OWNER_NAME": {
             "description": "fill with your telegram account username without @",
             "required": true,
-            "value": "DarkSkull93"
         },
         "IMG_1": {
             "description": "fill with your link to a photo you like",
@@ -87,7 +84,6 @@
         "ALIVE_NAME": {
             "description": "fill with your telegram account nickname/name",
             "required": true,
-            "value": "DemonGirl"
         }
     },
     "addons": [],
