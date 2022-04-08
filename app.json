@@ -26,10 +26,6 @@
         "OWNER_ID": {
             "description": "fill with your telegram id as the owner of the bot",
             "required": true,
-        },
-        "LOG_CHANNEL": {
-            "description": "create a private channel and get the channel id (give the channel username/link to bot @username_to_id_bot and get the channel id), add your bot as admin to the channel too",
-            "required": true,
             "value": ""
         },
         "BOT_USERNAME": {
@@ -72,6 +68,7 @@
         "DURATION_LIMIT": {
             "description": "max duration for music to download (in minutes, default is 40).",
             "required": true,
+            "value": "40"
         },
         "UPDATES_CHANNEL": {
             "description": "if you have channel, fill the channel username here without @",
